@@ -1,4 +1,4 @@
-# Movies-Database
+Movies-Database
 Apache NetBeans-14
 MySQL database-8.0
 -->The folder contains the snap shorts of the mysql database.
